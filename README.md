@@ -5,7 +5,8 @@ main difference is that, like the name suggests, assignDeep deeply copies/merges
 objects where as Object.assign() is shallow.
 
 # Benchmarks
-There are benchmarks included, however their validity is questionable.
+There are benchmarks included, however their validity and usefulness is
+questionable.
 
 The comparison is between three other methods of cloning deep, which each have
 their own drawbacks.
